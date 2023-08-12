@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("Commit From Eclipse");
 		System.out.println("Direct commit without staging area");
 		System.out.println("branch tps");
+		System.out.println("This code is only under tps branch");
 	}
 
 }
